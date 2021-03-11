@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T08:25:39.842Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="R4filcCdx8u0gNlVUlSi" version="14.4.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-11T08:31:08.172Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="R19cQoc2A7WAnDovnhsR" version="14.4.5" type="github" pages="3">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="정상">
     <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#114B5F" math="0" shadow="1">
       <root>
@@ -468,7 +468,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wPyEbQSS2BHkAY60eMN7-5" value="300억" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=1;labelBackgroundColor=none;fontSize=23;rounded=1;fontColor=#B5739D;fontStyle=1" vertex="1" parent="davwynHANvmo_u-Hi5J6-8">
+        <mxCell id="wPyEbQSS2BHkAY60eMN7-5" value="140억" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=1;labelBackgroundColor=none;fontSize=23;rounded=1;fontColor=#B5739D;fontStyle=1" vertex="1" parent="davwynHANvmo_u-Hi5J6-8">
           <mxGeometry x="218" y="580" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QceEHLvQOwUjT7aCVNQM-0" value="" style="endArrow=block;html=1;elbow=vertical;startArrow=diamondThin;startFill=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;flowAnimation=1;curved=1;endSize=12;startSize=12;targetPerimeterSpacing=6;sourcePerimeterSpacing=6;arcSize=30;strokeWidth=4;strokeColor=#CCCCCC;" edge="1" parent="davwynHANvmo_u-Hi5J6-8" target="lbAad6cOgz-Dq47tfIrp-0">
@@ -549,8 +549,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="davwynHANvmo_u-Hi5J6-47" value="300억" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=1;labelBackgroundColor=none;fontSize=23;rounded=1;fontColor=#B5739D;fontStyle=1" vertex="1" parent="davwynHANvmo_u-Hi5J6-1">
-          <mxGeometry x="1009" y="538" width="80" height="20" as="geometry" />
+        <mxCell id="davwynHANvmo_u-Hi5J6-47" value="150억" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=1;labelBackgroundColor=none;fontSize=23;rounded=1;fontColor=#B5739D;fontStyle=1" vertex="1" parent="davwynHANvmo_u-Hi5J6-1">
+          <mxGeometry x="962" y="548" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wt5oK9xG3AnzCB1s0dNN-9" value="" style="endArrow=block;html=1;elbow=vertical;startArrow=diamondThin;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=1;entryX=1;entryY=0;entryDx=0;entryDy=0;shadow=0;flowAnimation=1;curved=1;endSize=12;startSize=12;strokeColor=#B5739D;targetPerimeterSpacing=6;sourcePerimeterSpacing=6;arcSize=30;strokeWidth=4;" edge="1" parent="davwynHANvmo_u-Hi5J6-1" source="davwynHANvmo_u-Hi5J6-35" target="davwynHANvmo_u-Hi5J6-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -585,6 +585,9 @@
               <mxPoint x="1150" y="590" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QceEHLvQOwUjT7aCVNQM-2" value="&lt;font color=&quot;#999999&quot;&gt;70억&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=1;labelBackgroundColor=none;fontSize=23;rounded=1;fontColor=#B5739D;fontStyle=1" vertex="1" parent="davwynHANvmo_u-Hi5J6-1">
+          <mxGeometry x="1002" y="781" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
