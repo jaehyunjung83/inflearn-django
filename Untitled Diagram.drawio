@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T08:19:57.364Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ELIarVajx-RQvavofK7J" version="14.4.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-11T08:21:00.112Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="JMUZnqxz1zQBs1pN3H9s" version="14.4.5" type="github" pages="3">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="정상">
     <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#114B5F" math="0" shadow="1">
       <root>
@@ -281,7 +281,7 @@
         <mxCell id="2diam4vMtDa-l8mRtsp4-0" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#444444;strokeColor=none;" vertex="1" parent="p4e678Re-h2dg-x-eMqR-1">
           <mxGeometry x="492" y="760" width="186.00000000000003" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="정상" id="2diam4vMtDa-l8mRtsp4-1">
+        <UserObject label="정상" link="data:page/id,3228e29e-7158-1315-38df-8450db1d8a1d" id="2diam4vMtDa-l8mRtsp4-1">
           <mxCell style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="2diam4vMtDa-l8mRtsp4-0">
             <mxGeometry x="11.63" width="38.38" height="30" as="geometry" />
           </mxCell>
@@ -292,12 +292,12 @@
         <mxCell id="2diam4vMtDa-l8mRtsp4-3" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#33b5e5;strokeColor=none;" vertex="1" parent="2diam4vMtDa-l8mRtsp4-0">
           <mxGeometry x="55.22" y="27" width="64.78" height="3" as="geometry" />
         </mxCell>
-        <UserObject label="연체 및 회생" id="2diam4vMtDa-l8mRtsp4-4">
+        <UserObject label="연체 및 회생" link="data:page/id,nNE44GxBHEIWXdT4cOhP" id="2diam4vMtDa-l8mRtsp4-4">
           <mxCell style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="2diam4vMtDa-l8mRtsp4-0">
             <mxGeometry x="55.22" width="64.78" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="REPLY" id="2diam4vMtDa-l8mRtsp4-5">
+        <UserObject label="REPLY" link="data:page/id,l_HcqDGlgEC2RpH3Z6OQ" id="2diam4vMtDa-l8mRtsp4-5">
           <mxCell style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="2diam4vMtDa-l8mRtsp4-0">
             <mxGeometry x="121.22000000000003" width="64.78" height="30" as="geometry" />
           </mxCell>
@@ -495,7 +495,7 @@
         <mxCell id="dxa_6Wg7Gac6YvUNT0w2-0" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#444444;strokeColor=none;" vertex="1" parent="davwynHANvmo_u-Hi5J6-1">
           <mxGeometry x="492" y="767" width="186.00000000000003" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="정상" id="dxa_6Wg7Gac6YvUNT0w2-1">
+        <UserObject label="정상" link="data:page/id,3228e29e-7158-1315-38df-8450db1d8a1d" id="dxa_6Wg7Gac6YvUNT0w2-1">
           <mxCell style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="dxa_6Wg7Gac6YvUNT0w2-0">
             <mxGeometry x="11.63" width="38.38" height="30" as="geometry" />
           </mxCell>
@@ -506,12 +506,12 @@
         <mxCell id="dxa_6Wg7Gac6YvUNT0w2-3" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#33b5e5;strokeColor=none;" vertex="1" parent="dxa_6Wg7Gac6YvUNT0w2-0">
           <mxGeometry x="128.01" y="27" width="52" height="3" as="geometry" />
         </mxCell>
-        <UserObject label="연체 및 회생" id="dxa_6Wg7Gac6YvUNT0w2-4">
+        <UserObject label="연체 및 회생" link="data:page/id,nNE44GxBHEIWXdT4cOhP" id="dxa_6Wg7Gac6YvUNT0w2-4">
           <mxCell style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="dxa_6Wg7Gac6YvUNT0w2-0">
             <mxGeometry x="55.22" width="64.78" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="REPLY" id="dxa_6Wg7Gac6YvUNT0w2-5">
+        <UserObject label="REPLY" link="data:page/id,l_HcqDGlgEC2RpH3Z6OQ" id="dxa_6Wg7Gac6YvUNT0w2-5">
           <mxCell style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="dxa_6Wg7Gac6YvUNT0w2-0">
             <mxGeometry x="121.22000000000003" width="64.78" height="30" as="geometry" />
           </mxCell>
