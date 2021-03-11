@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T06:44:10.557Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="vm18KdLWUlIj89dp2cXs" version="14.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-11T06:45:17.400Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="szqrb1IDLVJv_TXDyZeH" version="14.4.5" type="github" pages="2">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="정상">
     <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#114B5F" math="0" shadow="1">
       <root>
@@ -75,22 +75,22 @@
         <mxCell id="IxZ-TT_wXNainTkpuHTq-21693" value="" style="shape=mxgraph.cisco.people.man_woman;html=1;pointerEvents=1;dashed=0;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=1;shadow=1;comic=1;sketch=0;fontColor=#FFFFFF;fillColor=#036897;" parent="21658" vertex="1">
           <mxGeometry x="250" y="269.99999999999994" width="52" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="dUDFQIZnzHPsPEInUNdm-21672" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#444444;strokeColor=none;" vertex="1" parent="21658">
+        <mxCell id="dUDFQIZnzHPsPEInUNdm-21672" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#444444;strokeColor=none;" parent="21658" vertex="1">
           <mxGeometry x="234" y="640" width="142" height="30" as="geometry" />
         </mxCell>
         <UserObject label="정상" id="dUDFQIZnzHPsPEInUNdm-21673">
-          <mxCell style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="dUDFQIZnzHPsPEInUNdm-21672">
+          <mxCell style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;" parent="dUDFQIZnzHPsPEInUNdm-21672" vertex="1">
             <mxGeometry x="21" width="35.5" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dUDFQIZnzHPsPEInUNdm-21674" value="" style="shape=line;strokeColor=#ffffff;direction=south;" vertex="1" parent="dUDFQIZnzHPsPEInUNdm-21672">
+        <mxCell id="dUDFQIZnzHPsPEInUNdm-21674" value="" style="shape=line;strokeColor=#ffffff;direction=south;" parent="dUDFQIZnzHPsPEInUNdm-21672" vertex="1">
           <mxGeometry x="131.31891891891894" y="5" width="7.675675675675676" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dUDFQIZnzHPsPEInUNdm-21675" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#33b5e5;strokeColor=none;" vertex="1" parent="dUDFQIZnzHPsPEInUNdm-21672">
+        <mxCell id="dUDFQIZnzHPsPEInUNdm-21675" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#33b5e5;strokeColor=none;" parent="dUDFQIZnzHPsPEInUNdm-21672" vertex="1">
           <mxGeometry x="21" y="27" width="35.5" height="3" as="geometry" />
         </mxCell>
         <UserObject label="연체 및 회생" id="dUDFQIZnzHPsPEInUNdm-21676">
-          <mxCell style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="dUDFQIZnzHPsPEInUNdm-21672">
+          <mxCell style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;" parent="dUDFQIZnzHPsPEInUNdm-21672" vertex="1">
             <mxGeometry x="83.25383783783784" width="35.5" height="30" as="geometry" />
           </mxCell>
         </UserObject>
